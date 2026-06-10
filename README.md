@@ -1,137 +1,99 @@
-# 🌟 Radhika Bhardwaj | Portfolio
+# 👩‍💻 Radhika Bhardwaj
 
-**Hi, I'm Radhika Bhardwaj** — a **Data Analyst**, aspiring **Data Scientist**, and **Web Designer**.  
-I am passionate about transforming raw data into meaningful insights through data analysis, visualisation, and machine learning. Skilled in Python, SQL, Pandas, NumPy, Tableau, Power BI, and statistical analysis. Experienced in data cleaning, exploratory data analysis (EDA), dashboard development, and predictive modelling. Focused on solving real-world business problems using data-driven decision-making and building scalable analytical solutions.
-
-🔗 **Live Website**: [https://rxbradhikatechbuilds.github.io/RadhikaPortfolio/](https://rxbradhikatechbuilds.github.io/RadhikaPortfolio/)
-
----
-
-## 📋 Table of Contents
-
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-  - [Foodie Hub](#foodie-hub)
-  - [Apparel Store](#apparel-store)
-  - [VisionMate AI (Current Project)](#visionmate-ai-current-project)
-- [Achievements](#achievements)
-- [Education](#education)
-- [Certifications & Training](#certifications--training)
-- [Hobbies & Interests](#hobbies--interests)
-- [Contact](#contact)
+**Data Analyst | Aspiring Data Scientist | Web Designer**  
+📍 Hoshiarpur, Punjab, India  
+📧 [bhardwajradhika885@gmail.com](mailto:bhardwajradhika885@gmail.com)  
+🔗 [GitHub](https://github.com/rxbradhikatechbuilds) | [Portfolio](https://rxbradhikatechbuilds.github.io/RadhikaPortfolio/)
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 Professional Summary
 
-**Creative Problem Solver & Team Player**  
-I'm a tech enthusiast with a background in computer applications and a flair for design, blending creativity with technical expertise to deliver meaningful digital solutions. With a passion for clean, efficient systems and user‑first thinking, I thrive on solving problems, learning continuously, and collaborating to turn ideas into impactful results.
+Creative problem solver & team player with a strong foundation in computer applications, data analytics, and web design. Passionate about building clean, efficient systems and user‑centric digital solutions. Skilled in Python, SQL, data visualisation (Tableau, Power BI), and predictive modelling. Currently pursuing MCA at Panjab University, with hands‑on experience in real‑time AI systems, e‑commerce platforms, and responsive web applications.
 
----
-
-## 🛠️ Skills
-
-| Category           | Skills                                                                                     |
-| ------------------ | ------------------------------------------------------------------------------------------ |
-| **Web Development** | HTML (90%), CSS (85%), Bootstrap (80%), JavaScript (75%)                                    |
-| **Database**        | SQL (90%), MySQL (80%), PHP (70%)                                                           |
-| **Programming**     | C (85%), Java (80%), Python (75%), Data Structures (70%)                                    |
-| **Data Analytics**  | Python (Pandas, NumPy), Tableau, Power BI, Statistical Analysis, EDA, Predictive Modelling |
+> *“Data‑driven decisions, human‑centred design.”*
 
 ---
 
-## 📌 Projects
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| **Data Analytics & Science** | Python (Pandas, NumPy), Tableau, Power BI, Statistical Analysis, EDA, Predictive Modelling |
+| **Web Development** | HTML, CSS, Bootstrap, JavaScript, PHP, MySQL |
+| **Programming Languages** | C, Java, Python, SQL (MySQL) |
+| **Concepts** | Data Structures, Database Design, Problem Solving |
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 VisionMate AI *(Current Project – MCA Final Year)*
+
+**Intelligent Real‑Time Visual Analysis System** – An on‑device AI camera assistant that delivers eight real‑time visual intelligence capabilities: object counting, scene description, safety alerts, gesture control, distance estimation, attendance tracking, actionable insights, and retail analytics.
+
+- **Tech Stack:** Python 3.10, YOLOv8 nano (TensorRT), MobileVLM‑1B INT4 quantised, OpenCV, MediaPipe, Streamlit
+- **Performance:** 25–30 FPS, >91% counting accuracy, sub‑second latency for core tasks, <6% false positive rate for hazard alerts
+- **Impact:** 20× faster than manual counting (45 sec → 2 sec); 4.6/5 user satisfaction across warehouse, education & safety domains
+- **Edge‑first design:** Zero cloud data, offline operation, full privacy
+- 🔗 *Repository coming soon*
 
 ### 🍔 Foodie Hub
-
-A responsive web application for food enthusiasts to discover and share recipes, built with modern web technologies. Features include user authentication, recipe search, and interactive UI components.  
-🛠 **Tech Stack:** HTML, CSS, JavaScript
+Responsive web app for food enthusiasts to discover and share recipes. Features user authentication, recipe search, and interactive UI.  
+*Tech Stack: HTML, CSS, JavaScript*
 
 ### 👕 Apparel Store
-
-A full‑featured e‑commerce website for clothing with product catalog, cart functionality, and admin dashboard. Implemented secure payment gateway and responsive design for all devices.  
-🛠 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
-> **Note:** Run this project on your system (laptop or PC) after installing XAMPP Server, or using any local server setup that includes Apache and MySQL.
-
-### 🧠 VisionMate AI (Current Project)
-
-**Intelligent Real‑Time Visual Analysis System** – A single‑device AI camera assistant that performs real‑time object counting, scene description, safety alerts, gesture recognition, distance estimation, attendance tracking, actionable insights, and retail analytics – all **on‑device (edge computing)** with zero cloud dependency.
-
-| Feature                | Description                                                                                     |
-| ---------------------- | ----------------------------------------------------------------------------------------------- |
-| **Object Counting**     | Real‑time bounding boxes with dynamic class selector (25–30 FPS, >91% accuracy) using YOLOv8 nano. |
-| **Scene Description**   | Natural language scene summaries generated by MobileVLM‑1B (INT4 quantised) in under 3 seconds.  |
-| **Safety Alerts**       | Detects missing PPE, fire, spills, obstructions (false positive rate <6%).                       |
-| **Gesture Recognition** | Hands‑free control via MediaPipe: thumbs up, peace sign, open palm (>30 FPS on CPU).             |
-| **Distance Estimation** | Coarse monocular depth heuristics for spatial awareness.                                         |
-| **Attendance Counting** | Compares detected head count against registered class strength for instant roll‑call.            |
-| **Actionable Insights** | Scene‑aware suggestions to guide operators.                                                      |
-| **Retail Analytics**    | Simulates footfall heatmaps and detects shelf gaps.                                              |
-
-**Tech Stack:** Python 3.10, TensorFlow / PyTorch, Ultralytics YOLOv8, OpenCV, MediaPipe, MobileVLM‑1B (INT4), Streamlit
-
-**Key Performance Metrics:**
-- ✅ **20× faster** than manual counting (45 seconds → 2 seconds per task)
-- ✅ **>91% counting accuracy** on held‑out test set
-- ✅ **4.6/5 user satisfaction** across warehouse, education & safety domains
-- ✅ **<6% false positive rate** for hazard alerts
-
-🔗 **GitHub Repository:** [VisionMate-AI](https://github.com/rxbradhikatechbuilds/VisionMate-AI) *(coming soon)*  
-📄 **Detailed Project Report:** Available upon request
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Prize – Web Design** – College level competition showcasing UX and responsive design skills (2019)
-- 🥈 **2nd Prize – IT Quiz** – Technical quiz testing knowledge across programming and emerging tech (2018)
-- 🎖️ **NCC 'C' Certificate** – National Cadet Corps certification with 'A' Grade (top score) (2017)
+Full‑featured e‑commerce website with product catalog, cart, admin dashboard, and secure payment gateway. Fully responsive design.  
+*Tech Stack: HTML, CSS, JavaScript, PHP, MySQL*  
+> *Note: Requires XAMPP or similar local server.*
 
 ---
 
 ## 🎓 Education
 
-| Degree                     | Year       | Institution                     | CGPA / Score |
-| -------------------------- | ---------- | ------------------------------- | ------------ |
-| Master's of Computer Application (MCA) | 2024–2026 | Panjab University, Chandigarh     | 7.87         |
-| Bachelor's of Computer Application (BCA) | 2021–2024 | Panjab University, Chandigarh     | 8.38         |
-| Senior Secondary (Non‑medical) | 2018–2021 | Punjab School Education Board (PSEB) | 9.06         |
+| Degree | Year | Institution | CGPA / Score |
+|--------|------|-------------|---------------|
+| Master’s of Computer Application (MCA) | 2024–2026 | Panjab University, Chandigarh | 7.87 |
+| Bachelor’s of Computer Application (BCA) | 2021–2024 | Panjab University, Chandigarh | 8.38 |
+| Senior Secondary (Non‑medical) | 2018–2021 | PSEB | 9.06 |
 
 ---
 
 ## 📜 Certifications & Training
 
-- **C Programming Certification** (2021) – Comprehensive training in C programming fundamentals and advanced concepts including pointers, memory management, and data structures.
-- **Basic Computer Certification** (2020) – Fundamental computer skills and software training covering operating systems, office applications, and basic troubleshooting.
+- **C Programming Certification** (2021) – Advanced concepts, pointers, memory management, data structures
+- **Basic Computer Certification** (2020) – Operating systems, office applications, troubleshooting
 
 ---
 
-## 🎯 Hobbies & Interests
+## 🏆 Achievements
 
-- ✈️ **Travelling** – Exploring new cultures and landscapes for creative inspiration
-- 🚗 **Driving** – Long drives help me clear my mind and problem‑solve
-- 🎵 **Music** – Curating playlists that match different coding moods
-- 📚 **Learning** – Constantly expanding my knowledge beyond just tech
+| Award | Level | Year |
+|-------|-------|------|
+| 🥇 1st Prize – Web Design | College‑level | 2019 |
+| 🥈 2nd Prize – IT Quiz | College‑level | 2018 |
+| 🎖️ NCC 'C' Certificate – 'A' Grade | National Cadet Corps | 2017 |
 
 ---
 
-## 📬 Contact
+## 🌟 Hobbies & Interests
 
-- 📍 **Location:** Hoshiarpur, Punjab, India
+- ✈️ Travelling – exploring cultures for creative inspiration
+- 🚗 Driving – long drives as a thinking and problem‑solving tool
+- 🎵 Music – curating coding playlists
+- 📚 Continuous learning – expanding beyond tech
+
+---
+
+## 📬 Let’s Connect
+
 - 📧 **Email:** [bhardwajradhika885@gmail.com](mailto:bhardwajradhika885@gmail.com)
 - 🔗 **GitHub:** [github.com/rxbradhikatechbuilds](https://github.com/rxbradhikatechbuilds)
-- 🔗 **LinkedIn:** *(add your LinkedIn URL here)*
+- 🌐 **Portfolio:** [rxbradhikatechbuilds.github.io/RadhikaPortfolio/](https://rxbradhikatechbuilds.github.io/RadhikaPortfolio/)
+- 🔗 **LinkedIn:** *(Add your LinkedIn profile URL here)*
 
-> 💡 *For project ideas, guidelines, or collaboration opportunities, feel free to reach out!*
-
----
-
-## 📄 License
-
-This portfolio is **open source** and available under the [MIT License](LICENSE).  
-Feel free to use it as a template for your own portfolio – just give credit where due!
+> 💡 *Open for collaboration on data analytics, AI, and web development projects. Feel free to reach out!*
 
 ---
 
-**Thank you for visiting!** ❤️
+**Thank you for visiting my GitHub profile!** ❤️
