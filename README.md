@@ -28,7 +28,7 @@ Creative problem solver & team player with a strong foundation in computer appli
 
 ## 📌 Featured Projects
 
-### 🧠 VisionMate AI *(Current Project – MCA Final Year)*
+### 🧠 VisionMate AI
 
 **Intelligent Real‑Time Visual Analysis System** – An on‑device AI camera assistant that delivers eight real‑time visual intelligence capabilities: object counting, scene description, safety alerts, gesture control, distance estimation, attendance tracking, actionable insights, and retail analytics.
 
